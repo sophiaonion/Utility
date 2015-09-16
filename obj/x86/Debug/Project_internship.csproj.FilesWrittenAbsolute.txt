@@ -1,0 +1,5 @@
+/Users/sophiawang/Desktop/computer science/Project_internship/Project_internship/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/sophiawang/Desktop/computer science/Project_internship/Project_internship/bin/Debug/Project_internship.exe.mdb
+/Users/sophiawang/Desktop/computer science/Project_internship/Project_internship/bin/Debug/Project_internship.exe
+/Users/sophiawang/Desktop/computer science/Project_internship/Project_internship/obj/x86/Debug/Project_internship.exe
+/Users/sophiawang/Desktop/computer science/Project_internship/Project_internship/obj/x86/Debug/Project_internship.exe.mdb
